@@ -1,0 +1,1055 @@
+{
+  "main": {
+    "size": 768.5634765625,
+    "children": {
+      "util": {
+        "size": 122.7744140625,
+        "children": {
+          "util.js": {
+            "size": 10.279296875
+          },
+          "request.js": {
+            "size": 2.2666015625
+          },
+          "common.js": {
+            "size": 14.92578125
+          },
+          "eventtracer.js": {
+            "size": 11.5517578125
+          },
+          "location.js": {
+            "size": 5.71875
+          },
+          "api.js": {
+            "size": 12.02734375
+          },
+          "userInfo.js": {
+            "size": 14.724609375
+          },
+          "abtesting.js": {
+            "size": 10.373046875
+          },
+          "userProfile.js": {
+            "size": 2.5498046875
+          },
+          "regenerator-runtime.js": {
+            "size": 6.3701171875
+          },
+          "config.js": {
+            "size": 0.080078125
+          },
+          "pageTracer.js": {
+            "size": 0.83984375
+          },
+          "calendar.js": {
+            "size": 0.8916015625
+          },
+          "wxTcel.js": {
+            "size": 0.556640625
+          },
+          "date.js": {
+            "size": 8.259765625
+          },
+          "validate.js": {
+            "size": 8.1298828125
+          },
+          "tcUtil.js": {
+            "size": 7.248046875
+          },
+          "middleware.js": {
+            "size": 1.537109375
+          },
+          "tcCommon.js": {
+            "size": 0.2236328125
+          },
+          "pageJson.js": {
+            "size": 4.220703125
+          }
+        }
+      },
+      "page": {
+        "size": 645.7890625,
+        "children": {
+          "techcenter": {
+            "size": 5.98046875,
+            "children": {
+              "common": {
+                "size": 5.98046875,
+                "children": {
+                  "util": {
+                    "size": 5.98046875,
+                    "children": {
+                      "savior.js": {
+                        "size": 5.98046875
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "usecar": {
+            "size": 617.9990234375,
+            "children": {
+              "store": {
+                "size": 52.5244140625,
+                "children": {
+                  "index.js": {
+                    "size": 16.1884765625
+                  },
+                  "reducers": {
+                    "size": 18.3251953125,
+                    "children": {
+                      "index.js": {
+                        "size": 5.9736328125
+                      },
+                      "airport.js": {
+                        "size": 2.61328125
+                      },
+                      "train.js": {
+                        "size": 2.6435546875
+                      },
+                      "specialCar.js": {
+                        "size": 0.83203125
+                      },
+                      "selection.js": {
+                        "size": 0.2890625
+                      },
+                      "common.js": {
+                        "size": 3.8642578125
+                      },
+                      "unstart.js": {
+                        "size": 2.109375
+                      }
+                    }
+                  },
+                  "actions": {
+                    "size": 11.7978515625,
+                    "children": {
+                      "index.js": {
+                        "size": 5.31640625
+                      },
+                      "airport.js": {
+                        "size": 2.5830078125
+                      },
+                      "car.js": {
+                        "size": 1.3212890625
+                      },
+                      "train.js": {
+                        "size": 2.5771484375
+                      }
+                    }
+                  },
+                  "common.js": {
+                    "size": 0.9091796875
+                  },
+                  "selector": {
+                    "size": 3.060546875,
+                    "children": {
+                      "queryPriceParams.js": {
+                        "size": 3.060546875
+                      }
+                    }
+                  },
+                  "state": {
+                    "size": 2.2431640625,
+                    "children": {
+                      "index.js": {
+                        "size": 2.2431640625
+                      }
+                    }
+                  }
+                }
+              },
+              "lib": {
+                "size": 19.5185546875,
+                "children": {
+                  "redux.js": {
+                    "size": 5.3564453125
+                  },
+                  "redux-thunk.js": {
+                    "size": 0.67578125
+                  },
+                  "reselect.js": {
+                    "size": 1.9794921875
+                  },
+                  "diff.js": {
+                    "size": 3.9541015625
+                  },
+                  "geohash.js": {
+                    "size": 2.82421875
+                  },
+                  "nextTick.js": {
+                    "size": 4.4921875
+                  },
+                  "two": {
+                    "size": 0.236328125,
+                    "children": {
+                      "style": {
+                        "size": 0.236328125,
+                        "children": {
+                          "app.wxss": {
+                            "size": 0.236328125
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "config": {
+                "size": 5.98828125,
+                "children": {
+                  "index.js": {
+                    "size": 5.98828125
+                  }
+                }
+              },
+              "common": {
+                "size": 159.619140625,
+                "children": {
+                  "common.js": {
+                    "size": 26.8798828125
+                  },
+                  "request.js": {
+                    "size": 4.83203125
+                  },
+                  "tool-fn.js": {
+                    "size": 4.5166015625
+                  },
+                  "localStore.js": {
+                    "size": 0.953125
+                  },
+                  "business.js": {
+                    "size": 21.4189453125
+                  },
+                  "condition.js": {
+                    "size": 1.7685546875
+                  },
+                  "map.js": {
+                    "size": 10.8642578125
+                  },
+                  "schedule.js": {
+                    "size": 3.048828125
+                  },
+                  "init.js": {
+                    "size": 9.853515625
+                  },
+                  "priceManager.js": {
+                    "size": 6.9443359375
+                  },
+                  "priceQuery": {
+                    "size": 15.9150390625,
+                    "children": {
+                      "constants.js": {
+                        "size": 0.7900390625
+                      },
+                      "queryPriceUtils.js": {
+                        "size": 4.7392578125
+                      },
+                      "CarQuerier.js": {
+                        "size": 1.6240234375
+                      },
+                      "PriceQuerier.js": {
+                        "size": 8.76171875
+                      }
+                    }
+                  },
+                  "Events.js": {
+                    "size": 2.4052734375
+                  },
+                  "impact.js": {
+                    "size": 4.7119140625
+                  },
+                  "cbehaviors.js": {
+                    "size": 0.6806640625
+                  },
+                  "bury": {
+                    "size": 2.5439453125,
+                    "children": {
+                      "index.js": {
+                        "size": 2.5439453125
+                      }
+                    }
+                  },
+                  "coupon.js": {
+                    "size": 0.8232421875
+                  },
+                  "common.wxs": {
+                    "size": 3.033203125
+                  },
+                  "globalStore.js": {
+                    "size": 2.5986328125
+                  },
+                  "createOrder": {
+                    "size": 35.8271484375,
+                    "children": {
+                      "createOrder.js": {
+                        "size": 14.02734375
+                      },
+                      "createOrderUtils.js": {
+                        "size": 21.7998046875
+                      }
+                    }
+                  }
+                }
+              },
+              "services": {
+                "size": 7.9619140625,
+                "children": {
+                  "AddressService.js": {
+                    "size": 1.7626953125
+                  },
+                  "BaseService.js": {
+                    "size": 0.48828125
+                  },
+                  "CommonService.js": {
+                    "size": 1.26171875
+                  },
+                  "ProcessService.js": {
+                    "size": 3.6826171875
+                  },
+                  "commonReqs.js": {
+                    "size": 0.7666015625
+                  }
+                }
+              },
+              "util": {
+                "size": 3.7578125,
+                "children": {
+                  "tripApi.js": {
+                    "size": 0.81640625
+                  },
+                  "tool.js": {
+                    "size": 1.9287109375
+                  },
+                  "risk.js": {
+                    "size": 1.0126953125
+                  }
+                }
+              },
+              "index": {
+                "size": 235.1611328125,
+                "children": {
+                  "config": {
+                    "size": 0.5673828125,
+                    "children": {
+                      "baseData.js": {
+                        "size": 0.1806640625
+                      },
+                      "pageData.js": {
+                        "size": 0.38671875
+                      }
+                    }
+                  },
+                  "behaviors": {
+                    "size": 39.810546875,
+                    "children": {
+                      "map.js": {
+                        "size": 9.048828125
+                      },
+                      "commonLogic.js": {
+                        "size": 18.390625
+                      },
+                      "main.js": {
+                        "size": 4.71875
+                      },
+                      "trackEvent.js": {
+                        "size": 3.5537109375
+                      },
+                      "menu.js": {
+                        "size": 0.73828125
+                      },
+                      "couponTips.js": {
+                        "size": 3.3603515625
+                      }
+                    }
+                  },
+                  "business": {
+                    "size": 184.1787109375,
+                    "children": {
+                      "infoSelecter": {
+                        "size": 163.9814453125,
+                        "children": {
+                          "constants.js": {
+                            "size": 0.0556640625
+                          },
+                          "tapOperation.js": {
+                            "size": 7.5009765625
+                          },
+                          "infoSelecter.js": {
+                            "size": 71.474609375
+                          },
+                          "quickChoose.js": {
+                            "size": 22.94921875
+                          },
+                          "crossover.js": {
+                            "size": 24.84765625
+                          },
+                          "infoSelecter.json": {
+                            "size": 0.25
+                          },
+                          "infoSelecter.wxml": {
+                            "size": 18.8779296875
+                          },
+                          "inputer.wxs": {
+                            "size": 4.318359375
+                          },
+                          "parse.wxs": {
+                            "size": 1.4638671875
+                          },
+                          "infoSelecter.wxss": {
+                            "size": 12.2431640625
+                          }
+                        }
+                      },
+                      "marketing": {
+                        "size": 4.626953125,
+                        "children": {
+                          "marketing.js": {
+                            "size": 4.0107421875
+                          },
+                          "marketing.json": {
+                            "size": 0.046875
+                          },
+                          "marketing.wxml": {
+                            "size": 0.28125
+                          },
+                          "marketing.wxss": {
+                            "size": 0.2880859375
+                          }
+                        }
+                      },
+                      "menu": {
+                        "size": 9.3291015625,
+                        "children": {
+                          "menu.js": {
+                            "size": 2.8232421875
+                          },
+                          "menu.json": {
+                            "size": 0.05078125
+                          },
+                          "menu.wxml": {
+                            "size": 5.1962890625
+                          },
+                          "menu.wxss": {
+                            "size": 1.2587890625
+                          }
+                        }
+                      },
+                      "translateJS": {
+                        "size": 4.0703125,
+                        "children": {
+                          "translateJS.js": {
+                            "size": 2.2734375
+                          },
+                          "translateJS.json": {
+                            "size": 0.046875
+                          },
+                          "translateJS.wxml": {
+                            "size": 0.9208984375
+                          },
+                          "translateJS.wxss": {
+                            "size": 0.8291015625
+                          }
+                        }
+                      },
+                      "endBubble": {
+                        "size": 2.1708984375,
+                        "children": {
+                          "endBubble.js": {
+                            "size": 0.755859375
+                          },
+                          "endBubble.json": {
+                            "size": 0.046875
+                          },
+                          "endBubble.wxml": {
+                            "size": 0.666015625
+                          },
+                          "endBubble.wxss": {
+                            "size": 0.7021484375
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "template": {
+                    "size": 5.4580078125,
+                    "children": {
+                      "addressSelect.wxss": {
+                        "size": 3.8359375
+                      },
+                      "addressSelect.wxml": {
+                        "size": 1.6220703125
+                      }
+                    }
+                  },
+                  "drag.wxs": {
+                    "size": 5.146484375
+                  }
+                }
+              },
+              "component": {
+                "size": 85.775390625,
+                "children": {
+                  "activityPopup": {
+                    "size": 12.3173828125,
+                    "children": {
+                      "activityPopup.js": {
+                        "size": 4.8720703125
+                      },
+                      "activityPopup.json": {
+                        "size": 0.046875
+                      },
+                      "activityPopup.wxml": {
+                        "size": 4.2333984375
+                      },
+                      "activityPopup.wxss": {
+                        "size": 3.1650390625
+                      }
+                    }
+                  },
+                  "orderPopup": {
+                    "size": 5.666015625,
+                    "children": {
+                      "orderPopup.js": {
+                        "size": 1.9072265625
+                      },
+                      "orderPopup.json": {
+                        "size": 0.046875
+                      },
+                      "orderPopup.wxml": {
+                        "size": 1.751953125
+                      },
+                      "orderPopup.wxss": {
+                        "size": 1.9599609375
+                      }
+                    }
+                  },
+                  "productTypeChgDlg": {
+                    "size": 2.9814453125,
+                    "children": {
+                      "index.js": {
+                        "size": 1.669921875
+                      },
+                      "index.json": {
+                        "size": 0.046875
+                      },
+                      "index.wxml": {
+                        "size": 0.615234375
+                      },
+                      "index.wxss": {
+                        "size": 0.6494140625
+                      }
+                    }
+                  },
+                  "pageLoading": {
+                    "size": 0.58203125,
+                    "children": {
+                      "pageLoading.js": {
+                        "size": 0.0732421875
+                      },
+                      "pageLoading.json": {
+                        "size": 0.0498046875
+                      },
+                      "pageLoading.wxml": {
+                        "size": 0.1669921875
+                      },
+                      "pageLoading.wxss": {
+                        "size": 0.2919921875
+                      }
+                    }
+                  },
+                  "pickupDateTime": {
+                    "size": 19.0146484375,
+                    "children": {
+                      "index.js": {
+                        "size": 5.7353515625
+                      },
+                      "bussines.js": {
+                        "size": 11.4482421875
+                      },
+                      "index.json": {
+                        "size": 0.1171875
+                      },
+                      "index.wxml": {
+                        "size": 1.2734375
+                      },
+                      "index.wxss": {
+                        "size": 0.4404296875
+                      }
+                    }
+                  },
+                  "actionSheet": {
+                    "size": 1.4287109375,
+                    "children": {
+                      "actionSheet.js": {
+                        "size": 0.255859375
+                      },
+                      "actionSheet.json": {
+                        "size": 0.029296875
+                      },
+                      "actionSheet.wxml": {
+                        "size": 0.275390625
+                      },
+                      "actionSheet.wxss": {
+                        "size": 0.8681640625
+                      }
+                    }
+                  },
+                  "recStartPoi": {
+                    "size": 7.130859375,
+                    "children": {
+                      "recStartPoi.js": {
+                        "size": 3.4384765625
+                      },
+                      "recStartPoi.json": {
+                        "size": 0.046875
+                      },
+                      "recStartPoi.wxml": {
+                        "size": 0.146484375
+                      },
+                      "recStartPoiTpl.wxml": {
+                        "size": 1.5751953125
+                      },
+                      "recStartPoi.wxss": {
+                        "size": 1.923828125
+                      }
+                    }
+                  },
+                  "augmentedAndQa": {
+                    "size": 5.3740234375,
+                    "children": {
+                      "augmentedAndQa.js": {
+                        "size": 2.7705078125
+                      },
+                      "augmentedAndQa.json": {
+                        "size": 0.046875
+                      },
+                      "augmentedAndQa.wxml": {
+                        "size": 1.3564453125
+                      },
+                      "augmentedAndQa.wxss": {
+                        "size": 1.2001953125
+                      }
+                    }
+                  },
+                  "announcement": {
+                    "size": 15.3486328125,
+                    "children": {
+                      "announcement.js": {
+                        "size": 9.2197265625
+                      },
+                      "announcement.json": {
+                        "size": 0.046875
+                      },
+                      "announcement.wxml": {
+                        "size": 2.685546875
+                      },
+                      "announcement.wxss": {
+                        "size": 3.396484375
+                      }
+                    }
+                  },
+                  "safeComp": {
+                    "size": 7.3515625,
+                    "children": {
+                      "safeComp.js": {
+                        "size": 3.69921875
+                      },
+                      "safeComp.json": {
+                        "size": 0.046875
+                      },
+                      "safeComp.wxml": {
+                        "size": 1.900390625
+                      },
+                      "safeComp.wxss": {
+                        "size": 1.705078125
+                      }
+                    }
+                  },
+                  "pageEmpty": {
+                    "size": 5.505859375,
+                    "children": {
+                      "pageEmpty.js": {
+                        "size": 3.189453125
+                      },
+                      "pageEmpty.json": {
+                        "size": 0.0224609375
+                      },
+                      "pageEmpty.wxml": {
+                        "size": 0.740234375
+                      },
+                      "pageEmpty.wxss": {
+                        "size": 1.5537109375
+                      }
+                    }
+                  },
+                  "popconfirm": {
+                    "size": 3.07421875,
+                    "children": {
+                      "index.js": {
+                        "size": 0.6572265625
+                      },
+                      "index.json": {
+                        "size": 0.046875
+                      },
+                      "index.wxml": {
+                        "size": 1.109375
+                      },
+                      "index.wxss": {
+                        "size": 1.2607421875
+                      }
+                    }
+                  }
+                }
+              },
+              "styles": {
+                "size": 12.0634765625,
+                "children": {
+                  "common.wxss": {
+                    "size": 0.97265625
+                  },
+                  "cmp_common.wxss": {
+                    "size": 7.0146484375
+                  },
+                  "fontfamaily.wxss": {
+                    "size": 2.2822265625
+                  },
+                  "sprite.wxss": {
+                    "size": 0.474609375
+                  },
+                  "iconfont.wxss": {
+                    "size": 0.01953125
+                  },
+                  "label.wxss": {
+                    "size": 1.2998046875
+                  }
+                }
+              },
+              "address": {
+                "size": 4.98828125,
+                "children": {
+                  "request.js": {
+                    "size": 0.7666015625
+                  },
+                  "parseData.wxs": {
+                    "size": 4.2216796875
+                  }
+                }
+              },
+              "selectCar": {
+                "size": 30.640625,
+                "children": {
+                  "business": {
+                    "size": 14.8662109375,
+                    "children": {
+                      "selectCarBus.js": {
+                        "size": 1.150390625
+                      },
+                      "trackHelper.js": {
+                        "size": 3.6416015625
+                      },
+                      "monthCard": {
+                        "size": 10.07421875,
+                        "children": {
+                          "monthCard.js": {
+                            "size": 2.962890625
+                          },
+                          "monthCard.json": {
+                            "size": 0.046875
+                          },
+                          "monthCard.wxml": {
+                            "size": 4.306640625
+                          },
+                          "monthCard.wxss": {
+                            "size": 2.7578125
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "common.wxss": {
+                    "size": 0.58984375
+                  },
+                  "template": {
+                    "size": 7.3046875,
+                    "children": {
+                      "payMent.wxml": {
+                        "size": 4.513671875
+                      },
+                      "payMent.wxss": {
+                        "size": 2.791015625
+                      }
+                    }
+                  },
+                  "wxs.wxs": {
+                    "size": 7.8798828125
+                  }
+                }
+              }
+            }
+          },
+          "hotelfw": {
+            "size": 14.0693359375,
+            "children": {
+              "lib": {
+                "size": 1.8525390625,
+                "children": {
+                  "core": {
+                    "size": 1.8525390625,
+                    "children": {
+                      "next-tick.js": {
+                        "size": 1.8525390625
+                      }
+                    }
+                  }
+                }
+              },
+              "style": {
+                "size": 12.216796875,
+                "children": {
+                  "class.wxss": {
+                    "size": 12.216796875
+                  }
+                }
+              }
+            }
+          },
+          "components": {
+            "size": 7.740234375,
+            "children": {
+              "NavBar": {
+                "size": 6.61328125,
+                "children": {
+                  "NavBar.js": {
+                    "size": 2.89453125
+                  },
+                  "NavBar.json": {
+                    "size": 0.111328125
+                  },
+                  "NavBar.wxml": {
+                    "size": 1.5908203125
+                  },
+                  "NavBar.wxss": {
+                    "size": 2.0166015625
+                  }
+                }
+              },
+              "backhome": {
+                "size": 1.126953125,
+                "children": {
+                  "backhome.js": {
+                    "size": 0.5517578125
+                  },
+                  "backhome.json": {
+                    "size": 0.046875
+                  },
+                  "backhome.wxml": {
+                    "size": 0.1455078125
+                  },
+                  "backhome.wxss": {
+                    "size": 0.3828125
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "page/usecar/": {
+    "size": 295.466796875,
+    "children": {
+      "page": {
+        "size": 295.466796875,
+        "children": {
+          "usecar": {
+            "size": 295.466796875,
+            "children": {
+              "webview": {
+                "size": 10.20703125,
+                "children": {
+                  "webview.js": {
+                    "size": 9.56640625
+                  },
+                  "webview.json": {
+                    "size": 0.001953125
+                  },
+                  "webview.wxml": {
+                    "size": 0.408203125
+                  },
+                  "webview.wxss": {
+                    "size": 0.23046875
+                  }
+                }
+              },
+              "index": {
+                "size": 34.5498046875,
+                "children": {
+                  "index.js": {
+                    "size": 18.9072265625
+                  },
+                  "index.json": {
+                    "size": 1.0322265625
+                  },
+                  "index.wxml": {
+                    "size": 7.53515625
+                  },
+                  "index.wxss": {
+                    "size": 7.0751953125
+                  }
+                }
+              },
+              "addFlight": {
+                "size": 1.8603515625,
+                "children": {
+                  "addFlight.js": {
+                    "size": 0.8369140625
+                  },
+                  "addFlight.wxml": {
+                    "size": 0.091796875
+                  },
+                  "flightList.js": {
+                    "size": 0.837890625
+                  },
+                  "flightList.wxml": {
+                    "size": 0.09375
+                  }
+                }
+              },
+              "myOrder": {
+                "size": 24.228515625,
+                "children": {
+                  "myOrder.js": {
+                    "size": 13.9970703125
+                  },
+                  "myOrder.json": {
+                    "size": 0.2158203125
+                  },
+                  "myOrder.wxml": {
+                    "size": 5.271484375
+                  },
+                  "myOrder.wxss": {
+                    "size": 4.744140625
+                  }
+                }
+              },
+              "selectTime": {
+                "size": 7.8515625,
+                "children": {
+                  "selectTime.js": {
+                    "size": 3.521484375
+                  },
+                  "selectTime.json": {
+                    "size": 0.228515625
+                  },
+                  "selectTime.wxml": {
+                    "size": 1.6650390625
+                  },
+                  "selectTime.wxss": {
+                    "size": 2.4365234375
+                  }
+                }
+              },
+              "selectStation": {
+                "size": 0.9521484375,
+                "children": {
+                  "selectStation.js": {
+                    "size": 0.8447265625
+                  },
+                  "selectStation.wxml": {
+                    "size": 0.107421875
+                  }
+                }
+              },
+              "selectTerminal": {
+                "size": 0.9580078125,
+                "children": {
+                  "selectTerminal.js": {
+                    "size": 0.8466796875
+                  },
+                  "selectTerminal.wxml": {
+                    "size": 0.111328125
+                  }
+                }
+              },
+              "ticketGroup": {
+                "size": 0.009765625,
+                "children": {
+                  "ticketGroup.js": {
+                    "size": 0.0078125
+                  },
+                  "ticketGroup.json": {
+                    "size": 0.001953125
+                  },
+                  "ticketGroup.wxml": {
+                    "size": 0
+                  },
+                  "ticketGroup.wxss": {
+                    "size": 0
+                  }
+                }
+              },
+              "selectCar": {
+                "size": 132.7490234375,
+                "children": {
+                  "selectCar.js": {
+                    "size": 91.83203125
+                  },
+                  "selectCar.json": {
+                    "size": 0.7080078125
+                  },
+                  "selectCar.wxml": {
+                    "size": 23.9072265625
+                  },
+                  "selectCar.wxss": {
+                    "size": 16.3017578125
+                  }
+                }
+              },
+              "immediateCar": {
+                "size": 36.091796875,
+                "children": {
+                  "immediateCar.js": {
+                    "size": 22.1572265625
+                  },
+                  "immediateCar.wxs": {
+                    "size": 0.337890625
+                  },
+                  "immediateCar.json": {
+                    "size": 0.3037109375
+                  },
+                  "immediateCar.wxml": {
+                    "size": 5.326171875
+                  },
+                  "immediateCar.wxss": {
+                    "size": 7.966796875
+                  }
+                }
+              },
+              "address": {
+                "size": 46.0087890625,
+                "children": {
+                  "address.js": {
+                    "size": 24.03515625
+                  },
+                  "address.json": {
+                    "size": 0.080078125
+                  },
+                  "address.wxml": {
+                    "size": 13.2392578125
+                  },
+                  "address.wxss": {
+                    "size": 8.654296875
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
